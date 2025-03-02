@@ -8,7 +8,7 @@ This is a crypto database project that displays more that 100 different cryptocu
 - Current values for USD and EUR currencies
 - Cryptocurrencies rankings by ther market value
 - Price and 24H Change datas
-- Line Chart that shows increase/decrease of the values in last 14 days
+- A Line Chart visualizing the change of values over the past 14 days.
 
 # 🛠️ Used Technologies and Libraries
 
