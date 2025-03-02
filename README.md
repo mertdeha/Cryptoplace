@@ -1,9 +1,26 @@
-# React + Vite
+# 🪙 Cryptoplace
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a crypto database project that displays more that 100 different cryptocurrencies. The price and latest changes of all cryptocurrencies are shown on the home page. Also each currency has its own detail page which includes more detail about it.
 
-Currently, two official plugins are available:
+# 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Cryptoplace
+- Searching and filtering 
+- Current values for USD and EUR currencies
+- Cryptocurrencies rankings by ther market value
+- Price and 24H Change datas
+- Line Chart that shows increase/decrease of the values in last 14 days
+
+# 🛠️ Used Technologies and Libraries
+
+- React-js
+- Vite
+- React-Router-DOM
+- Axios
+- React-icons
+- Tailwindcss
+- React-google-charts
+- Coingecko API
+
+# Preview
+
+![](cryptoplace-gif.gif)
